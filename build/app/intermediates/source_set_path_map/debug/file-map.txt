@@ -1,0 +1,12 @@
+com.example.dicee_app-core-1.6.0-0 C:\Users\VivoBook\.gradle\caches\transforms-3\518cc4cb7168eb83be375251c676a6d5\transformed\core-1.6.0\res
+com.example.dicee_app-jetified-window-java-1.0.0-beta04-1 C:\Users\VivoBook\.gradle\caches\transforms-3\65079112d316b3d0df57b70bb81e0262\transformed\jetified-window-java-1.0.0-beta04\res
+com.example.dicee_app-jetified-window-1.0.0-beta04-2 C:\Users\VivoBook\.gradle\caches\transforms-3\94aa392135afb71734feb08d83305d8f\transformed\jetified-window-1.0.0-beta04\res
+com.example.dicee_app-jetified-annotation-experimental-1.1.0-3 C:\Users\VivoBook\.gradle\caches\transforms-3\ac653396a25d93dfaca187ea34e0e1cf\transformed\jetified-annotation-experimental-1.1.0\res
+com.example.dicee_app-debug-4 F:\git\flutter-dicee-app-master\android\app\src\debug\res
+com.example.dicee_app-main-5 F:\git\flutter-dicee-app-master\android\app\src\main\res
+com.example.dicee_app-pngs-6 F:\git\flutter-dicee-app-master\build\app\generated\res\pngs\debug
+com.example.dicee_app-resValues-7 F:\git\flutter-dicee-app-master\build\app\generated\res\resValues\debug
+com.example.dicee_app-rs-8 F:\git\flutter-dicee-app-master\build\app\generated\res\rs\debug
+com.example.dicee_app-mergeDebugResources-9 F:\git\flutter-dicee-app-master\build\app\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.example.dicee_app-mergeDebugResources-10 F:\git\flutter-dicee-app-master\build\app\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.example.dicee_app-merged_res-11 F:\git\flutter-dicee-app-master\build\app\intermediates\merged_res\debug

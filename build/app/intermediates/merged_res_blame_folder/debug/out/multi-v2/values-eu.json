@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.dicee_app-mergeDebugResources-9:/values-eu/values-eu.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\VivoBook\\.gradle\\caches\\transforms-3\\518cc4cb7168eb83be375251c676a6d5\\transformed\\core-1.6.0\\res\\values-eu\\values-eu.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        }
+    ]
+}
